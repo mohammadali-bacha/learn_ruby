@@ -2,8 +2,8 @@ def echo(word)
   return word
 end
 
-def shout
-
+def shout(word)
+  return word.upcase
 end
 
 def repeat
