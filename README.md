@@ -1,5 +1,5 @@
-# Google
-La recherche se lance lorsque l'on clique sur le bouton "Rercherche Google".
+# Rspec
+Les exos 3 , 4 ,5 et 6 ne sont pas encore faits .
 
 Pair programming avec :
 
