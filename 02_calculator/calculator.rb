@@ -2,8 +2,8 @@ def add(x, y)
   adds = x + y
 end
 
-def substract(x, y)
-
+def subtract(x, y)
+  subtracts = x - y
 end
 
 def sum(x, y)
