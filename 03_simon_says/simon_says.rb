@@ -6,8 +6,8 @@ def shout(word)
   return word.upcase
 end
 
-def repeat
-
+def repeat(word)
+  puts word + " " + word  
 end
 
 def start_of_word
