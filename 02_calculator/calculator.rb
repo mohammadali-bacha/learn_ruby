@@ -1,5 +1,5 @@
 def add(x, y)
-
+  adds = x + y
 end
 
 def substract(x, y)
